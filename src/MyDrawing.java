@@ -17,7 +17,7 @@ public class MyDrawing extends JPanel {
 	// to display (e.g., when the program starts)
 	public void paintComponent(Graphics g) {
 		cat.draw(g, 50, 50);
-		newcat.draw(g, 100,100);
+		newcat.draw(g, 75, 75);
 	}
 	
 	/**
